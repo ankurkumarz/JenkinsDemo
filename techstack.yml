@@ -1,0 +1,1117 @@
+repo_name: ankurkumarz/JenkinsDemo
+report_id: e2484e8933bdc5ac34616d8a5a5c4119
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:01:31+00:00'
+requested_by: tdwivedi2
+provider: github
+branch: master
+detected_tools_count: 81
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/lib/morris.area.coffee
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/lib/morris.area.coffee
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/extras/addons.txt
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/extras/addons.txt
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Bower
+  description: A package manager for the web
+  website_url: http://bower.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/847/66db62603f426a8fc6664081811be6d4.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 1.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.5
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/flot/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/flot/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 1.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  version: 1.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.1.10
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.8.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/flot/.travis.yml
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/flot/.travis.yml
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: DataTables
+  description: A plug-in for the jQuery Javascript library
+  website_url: https://datatables.net
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/5693/7730351a5c782c7e25523388bfa8e393_400x400.jpeg
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Font Awesome
+  description: The internet's most popular icon toolkit
+  website_url: https://fontawesome.com/
+  version: 4.2.0
+  open_source: true
+  hosted_saas: false
+  category: Design
+  sub_category: Fonts
+  image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/datatables-plugins/api/index.html
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/datatables-plugins/api/index.html
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/extras/addons.txt
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/extras/addons.txt
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo
+  detection_source: Repo Metadata
+- name: XSLT
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/XSLT
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo
+  detection_source: Repo Metadata
+- name: bower
+  description: The browser package manager
+  package_url: https://www.npmjs.com/bower
+  version: 1.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16205/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+  vulnerabilities:
+  - name: Symlink Arbitrary File Overwrite in bower
+    cve_id: CVE-2019-5484
+    cve_url: https://github.com/advisories/GHSA-p6mr-pxg4-68hx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.8.8
+- name: btoa
+  description: Btoa for Node.JS
+  package_url: https://www.npmjs.com/btoa
+  version: 1.1.2
+  license: MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17351/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 5.0.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-autoprefixer
+  description: Parse CSS and add vendor-prefixed CSS properties using the Can I Use
+    database
+  package_url: https://www.npmjs.com/grunt-autoprefixer
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17148/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-banner
+  description: Adds a simple banner to files
+  package_url: https://www.npmjs.com/grunt-banner
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17430/default_f52a9ea80d1a46080182faf142d844b81ca11aa6.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-coffee
+  description: Compile CoffeeScript files to JavaScript
+  package_url: https://www.npmjs.com/grunt-contrib-coffee
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16284/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-compress
+  description: Compress files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-compress
+  version: 0.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-csslint
+  description: Lint CSS files
+  package_url: https://www.npmjs.com/grunt-contrib-csslint
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17982/default_4fd967542aef030b38a14a6ad69d2f385c52808d.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-cssmin
+  description: Minify CSS
+  package_url: https://www.npmjs.com/grunt-contrib-cssmin
+  version: 0.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-less
+  description: Compile LESS files to CSS
+  package_url: https://www.npmjs.com/grunt-contrib-less
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16581/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-qunit
+  description: Run QUnit unit tests in a headless Chrome instance
+  package_url: https://www.npmjs.com/grunt-contrib-qunit
+  version: 0.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  version: 0.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-jscs
+  description: Grunt task for checking JavaScript Code Style with jscs
+  package_url: https://www.npmjs.com/grunt-jscs
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16510/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-mocha
+  description: Grunt task for running client-side Mocha specs in PhantomJS
+  package_url: https://www.npmjs.com/grunt-mocha
+  version: 0.4.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17369/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-saucelabs
+  description: Grunt task running tests using Sauce Labs
+  package_url: https://www.npmjs.com/grunt-saucelabs
+  version: 8.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17562/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: grunt-shell
+  description: Run shell commands
+  package_url: https://www.npmjs.com/grunt-shell
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16396/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: gulp-header
+  description: Gulp extension to add header to file
+  package_url: https://www.npmjs.com/gulp-header
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16259/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: gulp-jshint
+  description: JSHint plugin for gulp
+  package_url: https://www.npmjs.com/gulp-jshint
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: gulp-uglify
+  description: Minify files with UglifyJS
+  package_url: https://www.npmjs.com/gulp-uglify
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: gulp-util
+  description: Utility functions for gulp plugins
+  package_url: https://www.npmjs.com/gulp-util
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15912/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+  vulnerabilities:
+  - name: Uncontrolled Resource Consumption in markdown-it
+    cve_id: CVE-2022-21670
+    cve_url: https://github.com/advisories/GHSA-6vfc-qv3f-vr6c
+    detected_date: Jan 13
+    severity: moderate
+    first_patched: 12.3.2
+- name: matchdep
+  description: Use micromatch to filter npm module dependencies by name
+  package_url: https://www.npmjs.com/matchdep
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16416/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Regular Expression Denial of Service in moment
+    cve_id: CVE-2017-18214
+    cve_url: https://github.com/advisories/GHSA-446m-mv8f-q348
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.19.3
+  - name: Moderate severity vulnerability that affects moment
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-hxf5-mg84-pj4m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.11.2
+  - name: Regular Expression Denial of Service in moment
+    cve_id: CVE-2016-4055
+    cve_url: https://github.com/advisories/GHSA-87vv-r9j6-g5qv
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.11.2
+- name: time-grunt
+  description: Display the elapsed execution time of grunt tasks
+  package_url: https://www.npmjs.com/time-grunt
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16275/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/bootstrap/package.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  version: 3.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: bootstrap-social
+  description: 'Couple: Social Sign-In Buttons for Bootstrap'
+  package_url: http://bower.io/bootstrap-social
+  version: 4.8.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: chai
+  description: BDD/TDD assertion library for node.js and the browser
+  package_url: http://bower.io/chai
+  version: 1.9.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: chai-jquery
+  description: JQuery assertions for the Chai assertion library
+  package_url: http://bower.io/chai-jquery
+  version: 1.2.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: datatables-plugins
+  description: Plug-ins for DataTables
+  package_url: http://bower.io/datatables-plugins
+  version: 1.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: datatables-responsive
+  description: Responsive extension for DataTables
+  package_url: http://bower.io/datatables-responsive
+  version: 1.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: flot
+  description: Attractive JavaScript charts for jQuery
+  package_url: http://bower.io/flot
+  version: 0.8.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: flot.tooltip
+  description: Tooltip plugin for wonderful Flot plotting library
+  package_url: http://bower.io/flot.tooltip
+  version: 0.8.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: holderjs
+  description: Client-side image placeholders
+  package_url: http://bower.io/holderjs
+  version: 2.4.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: metisMenu
+  description: A jQuery menu plugin
+  package_url: http://bower.io/metisMenu
+  version: 1.1.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: mocha
+  description: Simple, flexible, fun test framework
+  package_url: http://bower.io/mocha
+  version: 1.17.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: morrisjs
+  description: Pretty time-series line graphs
+  package_url: http://bower.io/morrisjs
+  version: 0.5.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: qunit
+  description: An easy-to-use JavaScript Unit Testing framework
+  package_url: http://bower.io/qunit
+  version: 1.14.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: raphael
+  description: JavaScript Vector Library
+  package_url: http://bower.io/raphael
+  version: '2.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: requirejs
+  description: A file and module loader for JavaScript
+  package_url: http://bower.io/requirejs
+  version: 2.1.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: sinon
+  description: Test spies, stubs and mocks for JavaScript
+  package_url: http://bower.io/sinon
+  version: 1.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: sinon-chai
+  description: Extends Chai with assertions for the Sinon.JS mocking framework
+  package_url: http://bower.io/sinon-chai
+  version: 2.5.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/morrisjs/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: sizzle
+  description: A sizzlin' hot selector engine
+  package_url: http://bower.io/sizzle
+  version: 2.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/jquery/bower.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
+- name: robloach/component-installer
+  description: Allows installation of Components via Composer
+  package_url: https://packagist.org/robloach/component-installer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/ankurkumarz/JenkinsDemo/blob/master/apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/composer.json
+  detection_source: apache-jmeter-3.0/apache-jmeter-3.0/bin/report-template/sbadmin2-1.0.7/bower_components/holderjs/composer.json
+  last_updated_by: Tanmay Dwivedi
+  last_updated_on: 2016-11-15 06:03:01.000000000 Z
